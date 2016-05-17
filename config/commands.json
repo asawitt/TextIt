@@ -1,0 +1,7 @@
+{
+	"commands":[
+	    {"name":"temperature", "script":"retrieve_temperature.php"},
+		{"name":"temp", "script":"retrieve_temperature.php"},
+		{"name":"remind", "script":"set_reminder.php"}
+	]
+}
