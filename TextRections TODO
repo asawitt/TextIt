@@ -1,15 +1,22 @@
+
+//General
+Add support for bacwards commands i.e. "Remind me in 20 minutes to water plants"
 Add voice-processing for calls to Twilio
 Add a primary-handler fails hook
 Add multi-part text handling i.e. "From where?"
-Make everything case-insensitive
 Optimize array-shifting
 Add "help" command
 mms enabled/disabled setting
 add command-syntax errors and text-returns to every command
 add "filler-word" filtering to all commands -- add another php file and include it on the receive-text, maybe?
 Come up with a better name because my god TextRections is terrible
-Refactor to include everything in the correct folders on cpanel
 
+//Task Scheduling
+Add scheduling relativistically: "in 20 minutes" 
+
+//Commands
+Weather
+Directions
 
 
 
